@@ -1,5 +1,7 @@
 # wled-sketches
 
+**English** · [Português](README.pt.md)
+
 Two small Python programs that listen to a microphone and draw on a 15 x 10 [WLED](https://kno.wled.ge/) LED matrix over Wi-Fi.
 
 - **`spectrum_wled`** draws a scrolling spectrogram: pitch runs left to right, time runs upwards, blue is quiet and green is loud.
