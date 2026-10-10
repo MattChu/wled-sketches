@@ -79,8 +79,6 @@ The first run downloads the speech and translation models, about 280 MB, into `~
 
 Wait for it to print `listening`, then speak. A phrase is translated when you pause, and each one is also printed in the terminal next to what was heard, which is the easiest way to see whether a mistake came from the recognition or from the translation.
 
-The panel's font is 5 pixels high and capitals only, so accents are dropped: AÇÃO shows as ACAO.
-
 ## If your matrix is different
 
 - **Another size:** change `W` and `H` at the top of each script. The translator needs at least 5 rows.
